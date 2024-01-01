@@ -9,7 +9,7 @@ import SwiftUI
 
 struct TextBootCamp: View {
     var body: some View {
-        Text("Hello, World, Hello, World, Hello, World, Hello, World Hello, World Hello, World Hello, World! ")
+        Text("Hello, World, Hello, World, Hello, World, Hello, World Hello, World Hello, World Hello, World!")
             .font(.system(size: 30, weight: .bold))
             .foregroundColor(.white)
             .padding(.all, 10)
